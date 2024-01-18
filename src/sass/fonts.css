@@ -1,0 +1,208 @@
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-Black.eot');
+    src: url('/fonts/Montserrat-Black.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Montserrat-Black.woff2') format('woff2'),
+        url('/fonts/Montserrat-Black.woff') format('woff'),
+        url('/fonts/Montserrat-Black.ttf') format('truetype'),
+        url('/fonts/Montserrat-Black.svg#Montserrat-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-Bold.eot');
+    src: url('/fonts/Montserrat-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Montserrat-Bold.woff2') format('woff2'),
+        url('/fonts/Montserrat-Bold.woff') format('woff'),
+        url('/fonts/Montserrat-Bold.ttf') format('truetype'),
+        url('/fonts/Montserrat-Bold.svg#Montserrat-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-ExtraBold.eot');
+    src: url('/fonts/Montserrat-ExtraBold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Montserrat-ExtraBold.woff2') format('woff2'),
+        url('/fonts/Montserrat-ExtraBold.woff') format('woff'),
+        url('/fonts/Montserrat-ExtraBold.ttf') format('truetype'),
+        url('/fonts/Montserrat-ExtraBold.svg#Montserrat-ExtraBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-SemiBold.eot');
+    src: url('/fonts/Montserrat-SemiBold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Montserrat-SemiBold.woff2') format('woff2'),
+        url('/fonts/Montserrat-SemiBold.woff') format('woff'),
+        url('/fonts/Montserrat-SemiBold.ttf') format('truetype'),
+        url('/fonts/Montserrat-SemiBold.svg#Montserrat-SemiBold') format('svg');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-Medium.eot');
+    src: url('/fonts/Montserrat-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Montserrat-Medium.woff2') format('woff2'),
+        url('/fonts/Montserrat-Medium.woff') format('woff'),
+        url('/fonts/Montserrat-Medium.ttf') format('truetype'),
+        url('/fonts/Montserrat-Medium.svg#Montserrat-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-Regular.eot');
+    src: url('/fonts/Montserrat-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Montserrat-Regular.woff2') format('woff2'),
+        url('/fonts/Montserrat-Regular.woff') format('woff'),
+        url('/fonts/Montserrat-Regular.ttf') format('truetype'),
+        url('/fonts/Montserrat-Regular.svg#Montserrat-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Montserrat';
+    src: url('/fonts/Montserrat-Light.eot');
+    src: url('/fonts/Montserrat-Light.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Montserrat-Light.woff2') format('woff2'),
+        url('/fonts/Montserrat-Light.woff') format('woff'),
+        url('/fonts/Montserrat-Light.ttf') format('truetype'),
+        url('/fonts/Montserrat-Light.svg#Montserrat-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PT Root UI';
+    src: url('/fonts/PTRootUI-Medium.eot');
+    src: url('/fonts/PTRootUI-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/PTRootUI-Medium.woff2') format('woff2'),
+        url('/fonts/PTRootUI-Medium.woff') format('woff'),
+        url('/fonts/PTRootUI-Medium.ttf') format('truetype'),
+        url('/fonts/PTRootUI-Medium.svg#PTRootUI-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PT Root UI';
+    src: url('/fonts/PTRootUI-Bold.eot');
+    src: url('/fonts/PTRootUI-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/PTRootUI-Bold.woff2') format('woff2'),
+        url('/fonts/PTRootUI-Bold.woff') format('woff'),
+        url('/fonts/PTRootUI-Bold.ttf') format('truetype'),
+        url('/fonts/PTRootUI-Bold.svg#PTRootUI-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('/fonts/Formular-Medium.eot');
+    src: url('/fonts/Formular-Medium.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Formular-Medium.woff2') format('woff2'),
+        url('/fonts/Formular-Medium.woff') format('woff'),
+        url('/fonts/Formular-Medium.ttf') format('truetype'),
+        url('/fonts/Formular-Medium.svg#Formular-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('/fonts/Formular-Black.eot');
+    src: url('/fonts/Formular-Black.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Formular-Black.woff2') format('woff2'),
+        url('/fonts/Formular-Black.woff') format('woff'),
+        url('/fonts/Formular-Black.ttf') format('truetype'),
+        url('/fonts/Formular-Black.svg#Formular-Black') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PT Root UI';
+    src: url('/fonts/PTRootUI-Regular.eot');
+    src: url('/fonts/PTRootUI-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/PTRootUI-Regular.woff2') format('woff2'),
+        url('/fonts/PTRootUI-Regular.woff') format('woff'),
+        url('/fonts/PTRootUI-Regular.ttf') format('truetype'),
+        url('/fonts/PTRootUI-Regular.svg#PTRootUI-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('/fonts/Formular-Bold.eot');
+    src: url('/fonts/Formular-Bold.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Formular-Bold.woff2') format('woff2'),
+        url('/fonts/Formular-Bold.woff') format('woff'),
+        url('/fonts/Formular-Bold.ttf') format('truetype'),
+        url('/fonts/Formular-Bold.svg#Formular-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PT Root UI';
+    src: url('/fonts/PTRootUI-Light.eot');
+    src: url('/fonts/PTRootUI-Light.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/PTRootUI-Light.woff2') format('woff2'),
+        url('/fonts/PTRootUI-Light.woff') format('woff'),
+        url('/fonts/PTRootUI-Light.ttf') format('truetype'),
+        url('/fonts/PTRootUI-Light.svg#PTRootUI-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('/fonts/Formular-Light.eot');
+    src: url('/fonts/Formular-Light.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Formular-Light.woff2') format('woff2'),
+        url('/fonts/Formular-Light.woff') format('woff'),
+        url('/fonts/Formular-Light.ttf') format('truetype'),
+        url('/fonts/Formular-Light.svg#Formular-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Formular';
+    src: url('/fonts/Formular.eot');
+    src: url('/fonts/Formular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Formular.woff2') format('woff2'),
+        url('/fonts/Formular.woff') format('woff'),
+        url('/fonts/Formular.ttf') format('truetype'),
+        url('/fonts/Formular.svg#Formular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
